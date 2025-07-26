@@ -8,5 +8,6 @@
 !/clustersettings.secret.yaml
 !/deploykey.secret.yaml
 !/flux.yaml
+!/kustomization.yaml
 !/namespace.yaml
 !/upgradesettings.yaml
