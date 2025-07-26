@@ -1,0 +1,9 @@
+# Flux ignore
+# https://fluxcd.io/flux/components/source/gitrepositories/#excluding-files
+
+# Exclude all
+/*
+
+# Include manifest directories
+!/main-k8s-control-1.yaml
+!/talosconfig
